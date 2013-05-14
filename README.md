@@ -1,1 +1,6 @@
-You should always have one of these. :)
+# Poetry Readme
+
+* Shakespeare
+* Poe
+* etc.
+
