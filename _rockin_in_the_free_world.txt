@@ -1,2 +1,5 @@
 There is a lady in the night
+<<<<<<< HEAD
 Wearing red, of course
+=======
+>>>>>>> Rockin
