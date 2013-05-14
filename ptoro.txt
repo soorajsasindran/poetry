@@ -1,6 +1,0 @@
-git push
-git pull
-help
-git help
-help git
-help me

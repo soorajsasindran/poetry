@@ -1,3 +1,0 @@
-Another new line
-:wq
-Adding a new file

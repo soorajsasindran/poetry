@@ -1,6 +1,0 @@
-This is a test to do some pushing to github
-Foo, add a line
-change by lokesh
-a change to someone else's file
-commit of anothers file
-
