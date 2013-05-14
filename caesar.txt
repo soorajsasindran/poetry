@@ -20,8 +20,5 @@ Then Caesar's spirit, raging with revenge
 With Ate from his side come hot from hell
 Lets have a merge conflict
 With carrion men groaning for burial
-<<<<<<< HEAD
 
 end of poetry
-=======
->>>>>>> e086dd63cc8fdc729d454e8769f973f848b1e102
