@@ -6,8 +6,11 @@ git training 4
 <<<<<<< HEAD
 git training 5
 git training 6
+<<<<<<< HEAD
 =======
 >>>>>>> Bansi: commit 4
 =======
 git training 5
 >>>>>>> Bansi: commit 5
+=======
+>>>>>>> Bansi: commit 6
