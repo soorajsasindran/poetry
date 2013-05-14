@@ -24,7 +24,11 @@ Lets have a merge conflict
 With carrion men groaning for burial
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 end of poetry
 =======
 some change
 >>>>>>> Update README
+=======
+-->end of poetry
+>>>>>>> Add sign
