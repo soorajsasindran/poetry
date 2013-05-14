@@ -1,2 +1,4 @@
 This is a fun testing
 and a line
+This is a fun testing. Very fun!
+changed the fun
