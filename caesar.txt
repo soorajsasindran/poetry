@@ -25,6 +25,7 @@ With carrion men groaning for burial
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 end of poetry
 =======
 some change
@@ -32,3 +33,13 @@ some change
 =======
 -->end of poetry
 >>>>>>> Add sign
+=======
+-->end of poetry
+=======
+<<<<<<< HEAD
+end of poetry
+=======
+some change
+>>>>>>> Update README
+>>>>>>> Update README
+>>>>>>> Update README

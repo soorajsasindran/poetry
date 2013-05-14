@@ -1,0 +1,7 @@
+This is my contrubtion to the teach repo
+<<<<<<< HEAD
+
+More content
+
+=======
+>>>>>>> Update README

@@ -1,0 +1,9 @@
+This is test file by mrkothar
+not anymore its my file by wdunn
+Changed my own file
+Frodo
+Aragon
+<<<<<<< HEAD
+Gandalf
+=======
+>>>>>>> Update README

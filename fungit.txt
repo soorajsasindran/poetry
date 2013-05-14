@@ -1,0 +1,7 @@
+This is a fun testing
+and a line
+<<<<<<< HEAD
+This is a fun testing. Very fun!
+changed the fun
+=======
+>>>>>>> Update README
