@@ -2,6 +2,7 @@ This is test file by mrkothar
 not anymore its my file by wdunn
 Changed my own file
 <<<<<<< HEAD
+<<<<<<< HEAD
 Frodo
 Aragon
 <<<<<<< HEAD
@@ -14,4 +15,11 @@ Gandalf
 
 Frodo
 >>>>>>> Frodo was here
+<<<<<<< HEAD
 >>>>>>> Frodo was here
+=======
+=======
+Frodo
+Aragon
+>>>>>>> Aragon
+>>>>>>> Aragon
