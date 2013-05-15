@@ -1,6 +1,8 @@
 # A Soliloquy of Marc Antony
 
-O pardon me thou bleeding piece of earth
+Listen up Peeps!
+
+Oooooh pardon me thou bleeding piece of earth
 That I am meek and gentle with these butchers
 Thou art the ruin of the noblest man
 Who ever livèd in the tide of times
@@ -10,6 +12,7 @@ Which like dumb mouths do ope their ruby lips
 And beg the voice and utterance of my tongue
 A curse shall light upon the limbs of men
 Domestic fury and fiere civil strife
+// Really?
 Shall cumber all the parts of Italy
 Blood and destruction shall be so in use
 And dreadful objects so familiar
@@ -17,4 +20,6 @@ That mothers shall but smile when they behold
 Their infants quartered by the hands of war
 Then Caesar's spirit, raging with revenge
 With Ate from his side come hot from hell
+Lets have a merge conflict
+With carrion men groaning for burial
 
